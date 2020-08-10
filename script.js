@@ -1,5 +1,4 @@
 $(document).ready(function() {
- 
 
  	$("#stream1_btn").on("click", function() {
  		$(".stream1").removeClass('highlight_stream');
